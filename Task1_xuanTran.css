@@ -44,7 +44,7 @@ h1{
 }
 
 body{
-    background: url("/Media/backgroundPic.jpg") no-repeat center fixed ;
+    background: url("https://cougarhighland.github.io/myPersonalisedBiography/Media/backgroundPic.jpg") no-repeat center fixed ;
     background-size: cover;
 }
 
